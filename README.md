@@ -1,7 +1,8 @@
 # SuperStoreOrders-EDA
-Read the Dataset
-Preprocessing of Dataset
-Handling the missing Values
+Reading the Dataset,
+Preprocessing of Dataset,
+Handling the missing Values,
+
 Data Visulization To get following Outcomes:
 
 
