@@ -1,9 +1,9 @@
 # SuperStoreOrders-EDA
-Reading the Dataset,
-Preprocessing of Dataset,
-Handling the missing Values,
+### Reading the Dataset
+### Preprocessing of Dataset
+### Handling the missing Values
 
-Data Visulization To get following Outcomes:
+**Data Visulization To get following Outcomes:**
 
 
 Q1.Which Segment has the best seller
